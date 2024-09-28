@@ -1,4 +1,4 @@
-# Satoshi Nakamoto
+# Satoshi Nakamoto 2
 
 Satoshi Nakamoto je pseudonym pro osobu nebo skupinu osob, která je považována za tvůrce Bitcoinu, první decentralizované digitální měny. V roce 2008 publikoval Nakamoto dokument nazvaný "Bitcoin: A Peer-to-Peer Electronic Cash System", který popisuje principy a fungování Bitcoinu. Dodnes zůstává identita Satoshiho Nakamota záhadou, i když existuje mnoho spekulací o jeho skutečné identitě.
 
